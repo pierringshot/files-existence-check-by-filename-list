@@ -1,0 +1,4 @@
+/data/data/com.termux/files/home/fileOperation/img.txt
+/storage/ECD8-6A4A/NIRVANA-2024/
+/storage/emulated/0/Sh/copy
+/storage/emulated/0/Sh/
