@@ -1,4 +1,5 @@
-/data/data/com.termux/files/home/fileOperation/img.txt
-/storage/ECD8-6A4A/NIRVANA-2024/
-/storage/emulated/0/Sh/copy
-/storage/emulated/0/Sh/
+/data/data/com.termux/files/home/tools/files-existence-check-by-filename-list/src/input-example.txt
+/storage/emulated/0/Android/data/com.luckydroid.droidbase/files/files/
+../out
+../out
+true
